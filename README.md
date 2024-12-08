@@ -30,9 +30,17 @@
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 ![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
+# Deployment
+![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![image](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
+![image](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
+![image](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) 
+![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
+![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
+
 # Certifications
 ![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Engineer-brightgreen)
 ![Docker Certified](https://img.shields.io/badge/Docker%20Certified-blue)
 
-# Prefered Technologies
+# Preferred Technologies
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonbyr4&layout=compact)
