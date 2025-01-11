@@ -1,5 +1,8 @@
 ### Welcome to my GitHub 👋
 
+# Preferred Technologies
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonbyr4&layout=compact)
+
 # Skills
 ## Web Development (Frontend)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -41,6 +44,3 @@
 # Certifications
 ![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Engineer-brightgreen)
 ![Docker Certified](https://img.shields.io/badge/Docker%20Certified-blue)
-
-# Preferred Technologies
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonbyr4&layout=compact)
