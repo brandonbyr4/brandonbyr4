@@ -8,7 +8,7 @@ I'm a creative and passionate Sr. Frontend Developer with over 10 years of exper
 
 # Certifications
 ![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Engineer-brightgreen)
-![Docker Certified](https://img.shields.io/badge/Docker%20Certified-blue)
+![Docker Certified](https://img.shields.io/badge/Docker%20Certified-blue?style=for-the-badge&logo=Docker&logoColor=white)
 
 # Skills
 ## Web Development (Frontend)
