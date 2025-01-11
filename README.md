@@ -7,7 +7,7 @@ I'm a creative and passionate Sr. Frontend Developer with over 10 years of exper
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonbyr4&layout=compact)
 
 # Certifications
-![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Engineer-brightgreen?style=for-the-badge&logo=AWS%Certified-Engineer&logoColor=white))
+![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Engineer-brightgreen?style=for-the-badge&logo=AWS%Certified-Engineer&logoColor=white)
 ![Docker Certified](https://img.shields.io/badge/Docker%20Certified-blue?style=for-the-badge&logo=Docker&logoColor=white)
 
 # Skills
