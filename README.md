@@ -1,10 +1,14 @@
 ### Welcome to my GitHub 👋
 
 # About Me
-I'm a creative and passionate Sr. Frontend Developer with over 10 years of experience.  I am originally from Los Angeles, CA; however, I am currently living and working in Dallas TX.  When I'm not writing code, I enjoy hiking, mountain biking, rock climbing, and taking care of my dog qnd two cats.
+I'm a creative and passionate Sr. Frontend Developer with over 10 years of experience.  I am originally from Los Angeles, CA; however, I am currently living and working in Dallas TX.  When I'm not writing code, I enjoy hiking, mountain biking, rock climbing, and taking care of my dog and two cats.
 
 # Preferred Technologies
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonbyr4&layout=compact)
+
+# Certifications
+![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Engineer-brightgreen)
+![Docker Certified](https://img.shields.io/badge/Docker%20Certified-blue)
 
 # Skills
 ## Web Development (Frontend)
@@ -43,7 +47,3 @@ I'm a creative and passionate Sr. Frontend Developer with over 10 years of exper
 ![image](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) 
 ![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
 ![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-# Certifications
-![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Engineer-brightgreen)
-![Docker Certified](https://img.shields.io/badge/Docker%20Certified-blue)
