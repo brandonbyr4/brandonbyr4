@@ -1,7 +1,7 @@
 ### Welcome to my GitHub 👋
 
 # About Me
-I'm a creative and passionate Sr. Frontend Developer with over 10 years of experience.  I am originally from Los Angeles, CA; however, I am currently living and working in Dallas TX.  When I'm not writing code, I enjoy hiking, mountain biking, rock climbing, and taking care of my dog and two cats.
+I'm a creative and passionate frontend developer with over 10 years of experience.  I am originally from Los Angeles, CA; however, I am currently living and working in Dallas TX.  When I'm not writing code, I enjoy hiking, mountain biking, rock climbing, and taking care of my dog and two cats.
 
 # Preferred Technologies
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonbyr4&layout=compact)
